@@ -1,0 +1,10 @@
+ignoreme
+!ignoreme
+/data/
+a*b
+c?d
+e[A-C]f
+**test/testtest
+dir1/**/dirn
+testfolder/**
+!testfolder/includeme
